@@ -1,2 +1,6 @@
 # projeto-ia
-Projeto Final da Unidade Curricular de Inteligência Artificial 2022/2023
+<h1>Projeto Final da Unidade Curricular de Inteligência Artificial 2022/2023</h1>
+<h2>102442 Daniel Martins Ferreira</h2>
+<h2>103600 Guilherme Costa Antunes</h2>
+<h3>Nota 1ª Entrega: 19.6</h3>
+<h3>Nota Final: 19.5</h3>
